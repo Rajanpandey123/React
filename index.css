@@ -1,0 +1,32 @@
+body{
+        margin:0px;
+        padding: 0px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       height: 100vh;
+}
+#red{
+     background-color: red;
+     height: 5em;
+     width: 5em;
+     border-style:solid;
+}
+#blue{
+        background-color: blue;
+        height: 5em;
+        width: 5em;
+}
+#yellow{
+        background-color: yellow;
+        height: 5em;
+        width: 5em;
+}
+#green{
+        background-color: green;
+        height: 5em;
+        width: 5em;
+}
+button{
+        font-size: x-large;
+}
